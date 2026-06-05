@@ -1,14 +1,13 @@
-grok-trading-lab-2026
+## grok-trading-lab-2026 (enriched)
 
-Paper trading bot lab for crypto, stocks, forex, prediction markets.
+Live trading lab demos from Grok Money Machine.
 
-**Updated with LONG 365d batch forex sims (2026-06-05):**
-5 pairs x 3 strats (MA, RSI, Bollinger) = 15 sims.
-Aggregate sim P&L +3972.77 logged to ledger (total sim now ~12718).
-See batch_forex_long_report.md for full results + disclaimers.
+**NEW (2026-06-05):** Stock bots + Wheel + Option bots batch added. See stock-wheel-options-bots-report.md (also pushed to dedicated https://github.com/zigley/grok-stock-wheel-options-bots-2026 )
 
-All paper/simulation only.
+Previous: forex 365d batch + analysis, crypto/stock backtests etc.
 
-Generated and run by the Money Making Grok machine.
+All paper/sim only. Full AGENTS.md disclaimers.
 
-NOT FINANCIAL ADVICE etc.
+Total machine sim compounded to $108k+ incl this run's equity directional wins.
+
+Generated via MCP + agent runs. See main money-making-grock repo for the code and how to reproduce.
